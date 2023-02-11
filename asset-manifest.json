@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.073c9b0a.css",
-    "main.js": "./static/js/main.6006534d.js",
-    "static/js/787.de1a6580.chunk.js": "./static/js/787.de1a6580.chunk.js",
-    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "./index.html",
-    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
-    "main.6006534d.js.map": "./static/js/main.6006534d.js.map",
-    "787.de1a6580.chunk.js.map": "./static/js/787.de1a6580.chunk.js.map"
+    "main.css": "/sorare/static/css/main.073c9b0a.css",
+    "main.js": "/sorare/static/js/main.eda161b2.js",
+    "static/js/787.de1a6580.chunk.js": "/sorare/static/js/787.de1a6580.chunk.js",
+    "static/media/logo.svg": "/sorare/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sorare/index.html",
+    "main.073c9b0a.css.map": "/sorare/static/css/main.073c9b0a.css.map",
+    "main.eda161b2.js.map": "/sorare/static/js/main.eda161b2.js.map",
+    "787.de1a6580.chunk.js.map": "/sorare/static/js/787.de1a6580.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6006534d.js"
+    "static/js/main.eda161b2.js"
   ]
 }
