@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sorare/static/css/main.073c9b0a.css",
-    "main.js": "/sorare/static/js/main.bd6d26ca.js",
+    "main.js": "/sorare/static/js/main.a7542996.js",
     "static/js/787.de1a6580.chunk.js": "/sorare/static/js/787.de1a6580.chunk.js",
     "index.html": "/sorare/index.html",
     "main.073c9b0a.css.map": "/sorare/static/css/main.073c9b0a.css.map",
-    "main.bd6d26ca.js.map": "/sorare/static/js/main.bd6d26ca.js.map",
+    "main.a7542996.js.map": "/sorare/static/js/main.a7542996.js.map",
     "787.de1a6580.chunk.js.map": "/sorare/static/js/787.de1a6580.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bd6d26ca.js"
+    "static/js/main.a7542996.js"
   ]
 }
